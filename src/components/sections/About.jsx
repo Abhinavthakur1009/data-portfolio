@@ -100,7 +100,7 @@ const About = () => {
             <Tilt className="h-full">
               <div className="bg-[#1a1a1a] border border-white/10 rounded-3xl p-6 flex flex-col items-center justify-center h-full relative overflow-hidden group">
                 <div className="absolute inset-0 bg-white/5 scale-0 group-hover:scale-100 transition-transform duration-500 rounded-3xl" />
-                <span className="text-5xl font-bold text-white mb-2 relative z-10">1+</span>
+                <span className="text-5xl font-bold text-white mb-2 relative z-10">0</span>
                 <span className="text-white/50 text-sm uppercase tracking-wider relative z-10">Years Experience</span>
               </div>
             </Tilt>
